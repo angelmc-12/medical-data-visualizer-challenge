@@ -3,6 +3,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Pagina del desafio https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
+
 # 1. Lee los datos desde el archivo CSV y guardalos en un DataFrame llamado df.
 df = None
 
